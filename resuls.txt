@@ -1,0 +1,4 @@
+Configuration	Average Execution Time (seconds)
+Vanilla PostgreSQL	40.0
+pg_stat_statements	41.4
+pg_stat_monitor	44.0
